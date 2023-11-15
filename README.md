@@ -2,7 +2,11 @@
 
 ## :receipt: Generalities 
 
+In this application you can create your diary so that you don't miss anything.
 
+To start you will have to create an account, if you already have one, you will have to log in with your email and password or authenticate yourself through a Google account.
+
+You can add a title, a description and related images to your notes. So start creating your notes. 🔜
 
 ## :arrow_forward: Demo
 
